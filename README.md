@@ -38,11 +38,6 @@ Vivekanandha College of Arts and Sciences for Women (Autonomous), Tiruchengode
 
 ---
 
-## 📊 GitHub Stats
-
-![Tonysha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivakumarton2026&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumarton2026&layout=compact&hide_border=true)
 
 ## 🚀 Projects
 
